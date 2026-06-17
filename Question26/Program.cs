@@ -14,8 +14,7 @@ namespace Question26
             for (int i = 0; i < 4; i++)
                 x *= 2;
             Console.WriteLine(x);
-            
 
-        }
+        }//Output: 16
     }
 }

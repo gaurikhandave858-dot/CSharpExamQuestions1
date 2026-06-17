@@ -14,6 +14,6 @@ namespace Question16
             for (int i = 1; i <=5; i++) 
                 x = x + i;
             Console.WriteLine(x);
-        }
+        }//Output: 16
     }
 }

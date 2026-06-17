@@ -13,6 +13,6 @@ namespace Question4
             int a = 5;
             int b = a++;
             Console.WriteLine(a + " " + b);
-        }
+        }//Output: 6 5
     }
 }

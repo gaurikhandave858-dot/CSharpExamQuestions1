@@ -16,6 +16,6 @@ namespace Question21
             y = x - y;
             x = x - y;
             Console.WriteLine(x+" "+y);
-        }
+        }//Output: 10 5
     }
 }

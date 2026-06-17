@@ -12,6 +12,6 @@ namespace Question13
         {
             int x = 10;
             Console.WriteLine(x == 10? x+5 : x-5);
-        }
+        }//Output: 15
     }
 }

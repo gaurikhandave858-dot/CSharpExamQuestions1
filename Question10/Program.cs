@@ -22,11 +22,7 @@ namespace Question10
                     Console.WriteLine("B");
                     break;
 
-
-
-
-
-            }
+            }//output: B
 
         }
     }

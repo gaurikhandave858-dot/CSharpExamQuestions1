@@ -14,6 +14,6 @@ namespace Question22
             for (int i = 0; i < 5; i++)
                 x = x + i;
             Console.WriteLine(x);
-        }
+        }//Output: 10
     }
 }

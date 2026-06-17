@@ -12,6 +12,6 @@ namespace Question12
         {
             int x = 5;
             Console.WriteLine(x>2 && x<5);
-        }
+        }//output: False
     }
 }

@@ -16,5 +16,5 @@ namespace Question9
                     sum++;
             Console.WriteLine(sum);
         }
-    }
+    }//output: 10
 }

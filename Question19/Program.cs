@@ -14,6 +14,6 @@ namespace Question19
             for (int i = 1;i<=100;i*=10)
                 count++;
             Console.WriteLine(count);
-        }
+        }//Output: 3
     }
 }

@@ -14,6 +14,6 @@ namespace Question7
             Console.WriteLine(arr[arr.Length-2]);
 
 
-        }
+        }//output: 4
     }
 }

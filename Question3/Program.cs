@@ -16,6 +16,6 @@ namespace Question3
                 x += x;
             
             Console.WriteLine(x);
-        }
+        }//Output: 8
     }
 }

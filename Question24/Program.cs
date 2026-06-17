@@ -13,6 +13,6 @@ namespace Question24
 
             int x = 2;
             Console.WriteLine(Math.Pow(x,3));
-        }
+        }//output: 8
     }
 }

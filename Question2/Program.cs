@@ -12,6 +12,6 @@ namespace Question2
         {
             int x = 10;
             Console.WriteLine(x++ + x++ + ++x);
-        }
+        }//Output: 34
     }
 }

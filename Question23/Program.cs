@@ -14,6 +14,6 @@ namespace Question23
             int[] arr = { 1, 2, 3 };
             Console.WriteLine(arr.Max());
 
-        }
+        }//output: 3
     }
 }

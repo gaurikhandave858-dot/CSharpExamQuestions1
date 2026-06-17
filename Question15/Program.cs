@@ -16,6 +16,6 @@ namespace Question15
                 sum += i;
             Console.WriteLine(sum/3);
 
-        }
+        }//output: 4
     }
 }

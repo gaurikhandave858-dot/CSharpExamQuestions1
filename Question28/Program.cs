@@ -12,6 +12,6 @@ namespace Question28
         {
             string s = "program";
             Console.WriteLine(s.Contains("gram"));
-        }
+        }//Output: True
     }
 }

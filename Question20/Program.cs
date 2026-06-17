@@ -12,6 +12,6 @@ namespace Question20
         {
             string s = "12345";
             Console.WriteLine(s.Length*2);
-        }
+        }//output: 10
     }
 }

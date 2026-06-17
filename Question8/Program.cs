@@ -16,6 +16,6 @@ namespace Question8
                 x *= 2;
             Console.WriteLine(x);
 
-        }
+        }//Output: 32
     }
 }

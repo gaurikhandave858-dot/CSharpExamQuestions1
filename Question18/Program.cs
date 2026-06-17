@@ -13,6 +13,6 @@ namespace Question18
             int x = 7;
             Console.WriteLine(x % 4);
 
-        }
+        }//Output: 3
     }
 }

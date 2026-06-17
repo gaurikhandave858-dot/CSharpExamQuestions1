@@ -12,6 +12,6 @@ namespace Question6
         {
             string s = "ABCDE";
             Console.WriteLine(s.Substring(1,3));
-        }
+        }//output: BCD
     }
 }

@@ -13,7 +13,6 @@ namespace Question25
             int x = 15;
             Console.WriteLine(x&7);
 
-
-        }
+        }//Output: 7
     }
 }

@@ -13,6 +13,6 @@ namespace Question17
 
             int x = 8;
             Console.WriteLine(x>>1);
-        }
+        }//Output: 4
     }
 }

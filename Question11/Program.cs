@@ -12,6 +12,6 @@ namespace Question11
         {
             string s = "CSharp";
             Console.WriteLine(s.IndexOf('a'));
-        }
+        }//output: 3
     }
 }

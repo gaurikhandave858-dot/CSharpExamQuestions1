@@ -12,6 +12,6 @@ namespace Question29
         {
             int x = 3;
             Console.WriteLine(x*x*x);
-        }
+        }//Output: 27
     }
 }

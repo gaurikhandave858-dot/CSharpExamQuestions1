@@ -15,6 +15,6 @@ namespace Question30
                 for (int j = 1; j <= 3; j++)
                     sum += i * j;
             Console.WriteLine(sum);
-        }
+        }//Output: 36
     }
 }

@@ -23,6 +23,6 @@ namespace Question5
             }
             Console.WriteLine(x);
 
-        }
+        }//Output: 9
     }
 }

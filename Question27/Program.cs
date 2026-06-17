@@ -12,6 +12,6 @@ namespace Question27
         {
             int x = 25;
             Console.WriteLine(Math.Sqrt(x));
-        }
+        }//Output: 5
     }
 }
